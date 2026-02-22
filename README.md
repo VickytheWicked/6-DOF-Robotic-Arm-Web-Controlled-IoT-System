@@ -1,5 +1,9 @@
 # 🤖 6-DOF Robotic Arm – Web-Controlled Embedded System
 
+![WhatsApp Image 2026-02-22 at 10 19 58 PM](https://github.com/user-attachments/assets/89a29c38-588b-4931-83fe-f27e53e6d851)
+
+---
+
 ## Overview
 A web-controlled robotic arm built using XIAO ESP32-C3 microcontroller. The device hosts an onboard web server allowing real-time joint control via browser-based sliders.
 
@@ -33,6 +37,12 @@ Browser → HTTP Request → ESP32 Web Server → PWM Signal → Servo Motors
 4. Control arm using sliders
 
 ---
+
+## Simple HTML page to controll
+<img width="385" height="443" alt="image" src="https://github.com/user-attachments/assets/2c202010-cd68-431b-bf41-393632eb2007" />
+
+## Demonstration
+
 
 ## Future Improvements
 - Inverse kinematics integration
