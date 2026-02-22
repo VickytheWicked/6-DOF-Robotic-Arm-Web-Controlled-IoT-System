@@ -41,8 +41,13 @@ Browser → HTTP Request → ESP32 Web Server → PWM Signal → Servo Motors
 ## Simple HTML page to controll
 <img width="385" height="443" alt="image" src="https://github.com/user-attachments/assets/2c202010-cd68-431b-bf41-393632eb2007" />
 
+---
+
 ## Demonstration
 
+https://github.com/user-attachments/assets/3ca6224a-dc82-4bec-910f-a80644d93c94
+
+---
 
 ## Future Improvements
 - Inverse kinematics integration
